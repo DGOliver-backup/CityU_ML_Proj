@@ -33,4 +33,4 @@ Phase 1:
 Phase 2:
 - **Intra-domain**: 99.80%
 - **Cross-domain**: 90.05%
-- **Average**: 94.93&
+- **Average**: 94.93%
