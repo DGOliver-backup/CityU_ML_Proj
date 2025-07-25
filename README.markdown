@@ -28,7 +28,7 @@ Each team member is responsible for training two models in both phases. After re
 Phase 1:
 - **Intra-domain**: 99.78%
 - **Cross-domain**: 54.81%
-- **Average**: 77.30&
+- **Average**: 77.30%
 
 Phase 2:
 - **Intra-domain**: 99.80%
