@@ -24,7 +24,7 @@ The project is divided into two phases:
 ### Work Distribution
 Each team member is responsible for training two models in both phases. After receiving TA feedback, members will analyze performance and apply unique approaches to refine their models, fostering diverse training techniques and hyperparameter tuning.
 
-### Result (Hidden test cases tested by the TA)
+### Results (Hidden test cases tested by the TA)
 Phase 1:
 - **Intra-domain**: 99.78%
 - **Cross-domain**: 54.81%
