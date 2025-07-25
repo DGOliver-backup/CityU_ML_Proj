@@ -1,4 +1,4 @@
-# Machine Learning Course Project
+# Machine Learning Course Project (TWAN Tsz Yin 57149200)
 
 This repository contains the project work completed as part of the Machine Learning course at the university. The project focuses on implementing an ensemble approach for image classification using four distinct deep learning models: **ViT**, **ResNet**, **EfficientNet**, and **MobileNet**. Below is a summary of the project's methodology and structure.
 
