@@ -1,6 +1,7 @@
 # Machine Learning Course Project: AIGC Detection (TWAN Tsz Yin 57149200)
 
 This repository contains the project work completed as part of the Machine Learning course at the university. The project focuses on implementing an ensemble approach for AIGC Detection using four distinct deep learning models: **ViT**, **ResNet**, **EfficientNet**, and **MobileNet**. Below is a summary of the project's methodology and structure.
+For a detailed report and implementation, please refer to the Jupyter Notebook file.
 
 ## Project Overview
 
